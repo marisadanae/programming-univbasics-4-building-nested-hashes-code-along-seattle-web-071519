@@ -20,7 +20,7 @@ def second_challenge
       :attitude["confused", "worried"]
 
       #your key/value pairs here!
-      }}
+      }
 
 
 end
